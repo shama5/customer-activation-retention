@@ -1,2 +1,5 @@
-Customer satisfaction has emerged as one of the most important factors that guarantee the success of online store; it has been posited as a key stimulant of purchase, repurchase intentions and customer loyalty. ![image](https://github.com/user-attachments/assets/29c2d0df-175e-41ff-9ab4-abee64e7dc78)
-Customer satisfaction has emerged as one of the most important factors that guarantee the success of online store; it has been posited as a key stimulant of purchase, repurchase intentions and customer loyalty. ![image](https://github.com/user-attachments/assets/7f342556-b95a-4828-98a6-cc9bd9b6b172)
+Customer satisfaction has emerged as one of the most important factors that guarantee the success of online store; it has been posited as a key stimulant of purchase, repurchase intentions and customer loyalty. 
+The combination of both utilitarian value and hedonistic values are needed to affect the repeat purchase intention (loyalty) positively .
+The objective was to perform extensive data analysis on a given dataset and produce valuable insights that will help in customer retention.
+
+
